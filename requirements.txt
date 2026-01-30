@@ -3,3 +3,6 @@ uvicorn
 python-multipart
 joblib
 pandas
+requests
+numpy
+scikit-learn
